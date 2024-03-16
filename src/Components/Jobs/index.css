@@ -1,12 +1,12 @@
 .jobs-con {
   padding-top: 80px;
   background-color: black;
-  height: 100vh;
   padding: 10%;
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
+  padding-top: 100px;
 }
 .search-con {
   display: flex;
@@ -39,4 +39,32 @@ label {
 }
 .line {
   width: 100%;
+}
+.employment-con {
+  color: #ffffff;
+  width: 100%;
+}
+.text {
+  color: #ffffff;
+}
+.box {
+  width: 20px;
+  margin-right: 5px;
+}
+.label-con {
+  display: flex;
+  align-items: center;
+}
+.employ-head {
+  font-size: 20px;
+}
+.box-circle {
+  width: 20px;
+  margin-right: 5px;
+}
+.job-item-con {
+  width: 100%;
+  color: #ffffff;
+  list-style-type: none;
+  padding: 0px;
 }

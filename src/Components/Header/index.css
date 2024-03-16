@@ -25,6 +25,10 @@
   display: flex;
   align-items: center;
 }
+.nav-left-large-container {
+  display: flex;
+  align-items: center;
+}
 .nav-right {
   display: flex;
   align-items: center;
@@ -35,4 +39,16 @@
 }
 .logout-btn {
   background-color: #272727;
+}
+
+@media screen and (max-width: 767px) {
+  .nav-left-large-container {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .nav-left {
+    display: none;
+  }
 }

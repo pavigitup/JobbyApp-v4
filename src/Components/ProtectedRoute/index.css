@@ -1,0 +1,11 @@
+.each-job-con {
+  width: 100%;
+  background-color: aquamarine;
+  border-radius: 20px;
+  padding: 20px;
+}
+.job-head-con {
+  background-color: #343434;
+  display: flex;
+  align-items: center;
+}
