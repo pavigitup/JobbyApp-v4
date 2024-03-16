@@ -1,0 +1,20 @@
+.home-con {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-sm-bg.png');
+  height: 100vh;
+  background-size: cover;
+  padding: 15% 5%;
+}
+.heading {
+  color: #ffffff;
+}
+.para {
+  color: #ffffff;
+}
+.btn-con {
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+}
+.button {
+  width: 100px;
+}

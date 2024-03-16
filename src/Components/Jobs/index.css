@@ -1,0 +1,42 @@
+.jobs-con {
+  padding-top: 80px;
+  background-color: black;
+  height: 100vh;
+  padding: 10%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.search-con {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #868383;
+  border-radius: 4px;
+  width: 100%;
+  margin: 0px;
+}
+.search-btn {
+  width: 60px;
+  background-color: #868383;
+  border-radius: 0px;
+}
+label {
+  color: transparent;
+}
+.input-box {
+  outline: none;
+  border: none;
+  color: #ffffff;
+}
+.pro-con {
+  margin: 20px 0px;
+  width: 100%;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  border-radius: 20px;
+  background-color: #868383;
+}
+.line {
+  width: 100%;
+}

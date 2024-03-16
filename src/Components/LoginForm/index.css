@@ -1,0 +1,50 @@
+.bg-con {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.jobby-con {
+  background-color: rgb(56, 55, 54);
+  padding: 5%;
+  border-radius: 5%;
+}
+.jobby-app-con {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.website-logo {
+  height: 30px;
+}
+.details-con {
+  display: flex;
+  flex-direction: column;
+  margin: 15px 0px;
+}
+label {
+  font-size: 12px;
+  padding: 3px 0px;
+  color: #fff;
+  font-weight: 600;
+}
+input {
+  background-color: transparent;
+  border: 1px solid #dbd3d3;
+  padding: 5px 5px;
+  margin: 5px 0px;
+  font-size: 12px;
+  width: 250px;
+  border-radius: 2px;
+}
+button {
+  width: 100%;
+  background-color: blue;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  padding: 5px;
+  font-weight: 600;
+}
